@@ -1,0 +1,57 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.vite/
+
+# Generated assets (optional — remove this block if you commit pre-built WebP/GLB)
+# public/assets/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Test & browser automation artifacts
+test-results/
+playwright-report/
+.playwright/
+blob-report/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# AI assistant tooling (local only — never publish)
+.claude/
+.cursor/
+.agents/
+memory-bank/
+.aider*
+AGENTS.md
+.cursorrules
+*.prompt.md
+prompt.md
+
+# Scratch & reference downloads from local sessions
+tmp/
+temp/
+__TRACKED_VAR__/
+*-ref.jpg
+crop-*.png

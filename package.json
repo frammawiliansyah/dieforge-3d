@@ -1,0 +1,43 @@
+{
+  "name": "dieforge-3d",
+  "private": false,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Procedural 3D asset studio for precision mold & die components — interactive React viewer, curated WebP renders, and portable GLB exports from a single Three.js pipeline.",
+  "keywords": [
+    "three.js",
+    "procedural-3d",
+    "mold",
+    "die-components",
+    "glb",
+    "react",
+    "webgl",
+    "pbr",
+    "catalog-rendering"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "render": "node scripts/render-images.mjs",
+    "export:glb": "node scripts/export-glb.mjs",
+    "assets": "node scripts/build-assets.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "three": "^0.184.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.12.3",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@types/three": "^0.184.1",
+    "@vitejs/plugin-react": "^4.7.0",
+    "playwright": "^1.49.1",
+    "sharp": "^0.34.4",
+    "typescript": "~5.9.3",
+    "vite": "^6.4.3"
+  }
+}
