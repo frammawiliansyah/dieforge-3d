@@ -186,20 +186,6 @@ To tweak proportions for an existing pin, edit the relevant `*-dimensions.ts` ta
 
 ---
 
-## Suggested GitHub repository names
-
-Pick one that fits your brand — the codebase is name-agnostic:
-
-| Name | Vibe |
-|---|---|
-| **[dieforge-3d](https://github.com/new)** | **Recommended** — short, memorable, die/mold + precision craft |
-| `forgeform` | Minimal, brandable |
-| `moldcraft-3d` | Descriptive, maker-friendly |
-| `paramold-studio` | Highlights procedural/parametric workflow |
-| `precision-die-assets` | SEO-clear for industrial tooling |
-
----
-
 ## License
 
 Add a `LICENSE` file before publishing (MIT is a common choice for tooling libraries). Until then, all rights reserved by the repository owner.
