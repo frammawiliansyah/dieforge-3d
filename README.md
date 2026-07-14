@@ -2,6 +2,31 @@
 
 **Procedural 3D asset studio for precision mold & die components.**
 
+<p align="center">
+  <a href="https://github.com/frammawiliansyah/dieforge-3d/blob/main/public/assets/coil-spring-biru/model.glb" title="Open interactive GLB — coil spring">
+    <img src="https://raw.githubusercontent.com/frammawiliansyah/dieforge-3d/main/public/assets/coil-spring-biru/hero-right.webp" alt="Blue die coil spring — procedural render" width="280" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/frammawiliansyah/dieforge-3d/blob/main/public/assets/guide-bush-kepala/model.glb" title="Open interactive GLB — guide bush">
+    <img src="https://raw.githubusercontent.com/frammawiliansyah/dieforge-3d/main/public/assets/guide-bush-kepala/hero-right.webp" alt="Headed guide bush — procedural render" width="280" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/frammawiliansyah/dieforge-3d/blob/main/public/assets/straight-punch/model.glb" title="Open interactive GLB — straight punch">
+    <img src="https://raw.githubusercontent.com/frammawiliansyah/dieforge-3d/main/public/assets/straight-punch/hero-right.webp" alt="Straight punch — procedural render" width="280" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    Click a render to open its interactive <strong>GLB</strong> in GitHub's 3D viewer —
+    <a href="https://github.com/frammawiliansyah/dieforge-3d/blob/main/public/assets/coil-spring-biru/model.glb">coil spring</a>
+    ·
+    <a href="https://github.com/frammawiliansyah/dieforge-3d/blob/main/public/assets/guide-bush-kepala/model.glb">guide bush</a>
+    ·
+    <a href="https://github.com/frammawiliansyah/dieforge-3d/blob/main/public/assets/straight-punch/model.glb">straight punch</a>
+  </sub>
+</p>
+
 One geometry pipeline powers everything: an interactive React viewer, five catalog-ready WebP renders per product, and portable GLB exports — all guaranteed consistent because they share the same Three.js builders.
 
 ```
